@@ -1,0 +1,15 @@
+INFO Server started successfully
+INFO Listening on port 8080
+WARNING Disk space running low
+INFO User login successful
+ERROR Database connection failed
+INFO Retrying database connection
+WARNING High memory usage detected
+INFO Scheduled job started
+ERROR Timeout while calling external API
+INFO Scheduled job completed
+INFO New user registered
+WARNING CPU usage above threshold
+ERROR Failed to write to log file
+INFO Server health check passed
+INFO Backup completed successfully
